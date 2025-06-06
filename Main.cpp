@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    string user;
+    string user,Respuesta;
     
     cout<<"Ingrese su nombre "<<endl;
 
@@ -14,5 +14,6 @@ int main(){
     }else{
         cout <<"HOLA MUNDO"<<endl;
     }
-
+cout<<"Pasejn Copia De La Tarea XDDDD"
+    cin>>Respuesta;
 }
